@@ -37,3 +37,6 @@ Site vitrine pour la conférence tech panafricaine "AfriConnect Summit 2026".
 - Bootstrap Icons
 - Unsplash / Pexels
 - Coolors
+
+## page du site
+ <imag src="images/capture d'écran.png" alt="capture">
